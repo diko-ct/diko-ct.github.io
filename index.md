@@ -70,7 +70,7 @@ Currently, I work as a SOC Level 2 Analyst at **Orange Jordan**, where I:
 - ✍️ **Writeups**: CTF walkthroughs (TryHackMe, HackTheBox)  
 - 🛠 **Projects**: SIEM use cases, automation scripts, threat hunting tools  
 - 📜 **Certifications**: Links and summaries of my certs  
-- 📚 **[Reviews](/reviews/)**: Course and certification reflections
+- 📚 **[Reviews](reviews/)**: Course and certification reflections
 
 ---
 
