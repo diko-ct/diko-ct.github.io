@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles below */
+h1, h2, h3 {
+  color: #0ff; /* Cyberpunk glow */
+}
+
+a {
+  color: #1dd; /* Softer link tone */
+}
